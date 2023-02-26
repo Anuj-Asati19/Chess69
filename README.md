@@ -1,6 +1,4 @@
 ### ANUJ ASATI 
 
 #### My First Repo 
-ABCDEFGH  
-hello  
-bye  
+Lets Play Chess 69
